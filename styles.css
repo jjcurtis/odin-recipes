@@ -2,13 +2,11 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
     color: red;
-    padding: 70px;
+    padding: 25px;
     box-sizing: border-box;
-    max-width: 900px;
+    max-width: 750px;
     margin: auto;
 }
-
-
 
 li {
     margin: 5px 0;
@@ -26,8 +24,9 @@ a,
 
 img {
     height: auto;
-    width: 500px;
-    margin: 20px 120px; 
+    display: block;
+    width: 600px;
+    margin: 20px auto
 }
 
 

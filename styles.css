@@ -2,14 +2,32 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
     color: red;
+    padding: 70px;
+    box-sizing: border-box;
+    max-width: 900px;
+    margin: auto;
+}
+
+
+
+li {
+    margin: 5px 0;
+}
+
+h1,
+h3 {
+    text-align: center;
 }
 
 a,
 .links {
-    color: red;
+    color: rgb(255, 0, 0);
 }
 
 img {
     height: auto;
     width: 500px;
+    margin: 20px 120px; 
 }
+
+

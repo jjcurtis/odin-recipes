@@ -8,8 +8,15 @@ html {
     margin: auto;
 }
 
+ul {
+    margin: 5px auto;
+    height: auto;
+    display: flex;
+}
+
 li {
     margin: 5px 0;
+    display: inline;
 }
 
 h1,
@@ -20,6 +27,8 @@ h3 {
 a,
 .links {
     color: rgb(255, 0, 0);
+    margin: 5px;
+
 }
 
 img {
@@ -29,4 +38,7 @@ img {
     margin: 20px auto
 }
 
+.container{
+    display: flex;
+}
 
